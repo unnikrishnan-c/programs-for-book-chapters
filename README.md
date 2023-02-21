@@ -1,4 +1,9 @@
 # programs-for-book-chapters
-
-Going to start with Chapter one.
-The programs for GPU, and CPU graph algorithms are ready. I will add it in a proper structure
+This page contains code for elementary  graph algorithms on CPU and GPU: 
+Foloder BOOK/GPU contains CUDA programs for algorithms and BOO/CPU contains C++ code for algorithms
+Algorithms available are
+Breadth First Search (BFS)
+Single Source Shortest Path (SSSP)
+Minimum Spanning Tree (MST)
+Weakly Connected Components  (WCC)
+Triangle Couting (TC)

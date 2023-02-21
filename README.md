@@ -1,6 +1,6 @@
 # programs-for-book-chapters
-This page contains code for elementary  graph algorithms on CPU and GPU: 
-Foloder BOOK / GPU contains CUDA programs for algorithms and BOO/CPU contains C++ code for algorithms
+This page contains GPU and multi-core CPU code for elementary  graph algorithms.
+Folder BOOK/GPU contains CUDA programs for algorithms and BOOK/CPU contains OpenMP+C++ code for algorithms.
 Algorithms available are
 
 
